@@ -1,2 +1,3 @@
 # Web_application_for_the_assignment_of_bachelor-s_projects
 The purpose of this web application is to make the method of assigning students to bachelor's tutors as easy as possible. Thus, we used a database to save both the data entered by the teaching staff(the number of available places and the projects that the students can choose), but also the applications that will be made by the students in view of the bachelor's guide and the project they want to realize.
+![Screenshot (144)](https://github.com/Tudor-tdt/Web_application_for_the_assignment_of_bachelor-s_projects/assets/86119199/09cf13d1-e57f-42a9-933d-d36d5745d693)
